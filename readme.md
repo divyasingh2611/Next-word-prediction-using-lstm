@@ -1,4 +1,4 @@
-LSTM Text Prediction Model
+                                       LSTM Text Prediction Model
 This repository contains a Long Short-Term Memory (LSTM) model implementation for predicting the next word in a sequence using Keras and TensorFlow.
 
 Overview
